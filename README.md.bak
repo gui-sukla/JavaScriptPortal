@@ -1,5 +1,6 @@
 <h1 align="center">
 <br>
+  <a href="https://github.com/gui-sukla/SoftwareKnowledgePortal"><img src="software.png" alt="开发的一些概念" width=200"></a>
   <a href="https://github.com/gui-sukla/JavaScriptPortal"><img src="javascript.png" alt="JavaScript开发的一些概念" width=200"></a>
   <br>
     <br>
@@ -10,6 +11,7 @@
 ## 简介
 
 这个项目是为了帮助开发者掌握 JavaScript 概念而创立的。它不是必备，但在未来学习（JavaScript）中，可以作为一篇指南。
+[这里还有其它软体开发的概念](https://github.com/gui-sukla/SoftwareKnowledgePortal)
 
 > 本篇文章是参照 @leonardomso 创立，英文版项目地址在[这里](https://github.com/leonardomso/33-js-concepts)。
 > 由于原版资源都要翻墙，所以本人创立一个中文版，附上关于这些概念在国内的一些文章和视频。
