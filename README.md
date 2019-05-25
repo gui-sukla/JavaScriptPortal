@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/stephentian/33-js-concepts"><img src="33_js_concepts.jpg" alt="每位 JS 开发应该懂的 33 个概念" width=200"></a>
+  <a href="https://github.com/gui-sukla/JavaScriptPortal"><img src="javascript.png" alt="JavaScript开发的一些概念" width=200"></a>
   <br>
     <br>
-  JavaScript开发者应懂的33个概念
+  JavaScript开发的一些概念
   <br>
 </h1>
 
@@ -22,8 +22,7 @@
 - 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
 - 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念(替换删除的 "高阶函数")
-- 2018-10-24 更新：@BuptStEve 贡献的三篇关于" 函数式编程 "方面的文章
-- 2018-12-04 更新：@haner199401 贡献的 @冴羽 "JavaScript 深入之从原型到原型链"
+
 
 ---
 
@@ -141,7 +140,7 @@
 
 ---
 
-## 4. 隐式, 显式, 名义和鸭子类型
+## 4. 隐式, 显式, 名义和鸭式辩型
 
 ### 文章
 
@@ -552,7 +551,7 @@
 
 ---
 
-## 26. 设计模式
+## 26. 设计模式在JavaScript
 
 ### 文章
 
