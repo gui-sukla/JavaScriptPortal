@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/gui-sukla/SoftwareKnowledgePortal"><img src="software.png" alt="开发的一些概念" width=200"></a>
-  <a href="https://github.com/gui-sukla/JavaScriptPortal"><img src="javascript.png" alt="JavaScript开发的一些概念" width=200"></a>
+  <a href="https://github.com/gui-sukla/SoftwareKnowledgePortal/blob/master/README.md"><img src="software.png" alt="开发的一些概念" width=200"></a>
+  <a href="https://github.com/gui-sukla/JavaScriptPortal/blob/master/README.md"><img src="javascript.png" alt="JavaScript开发的一些概念" width=200"></a>
   <br>
     <br>
   JavaScript开发的一些概念
